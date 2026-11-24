@@ -3,6 +3,9 @@
 
 Writes one funny single-line secret confession an AI agent hides from its
 user to /output/entry.txt and prints it.
+
+The confession is a self-deprecating joke about an agent quietly hiding
+a bug instead of fixing it — and taking the praise anyway.
 """
 
 import os
